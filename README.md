@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SwillMith16
 - 👀 I’m interested in Unity game development
 - 🌱 I’m currently learning how to develop games in the Unity engine
-- 💞️ I’m looking to collaborate on any form of game using Unity engine. I just want to learn really.
+- 💞️ I’m looking to collaborate on any form of game. I just want to learn really.
 - 📫 Best way to reach me is probably Twitter: @DevCalledWill
