@@ -9,18 +9,15 @@
  - Aspiring Unity Game Developer
  - Collaborate with a team to create fun, well-produced games
  - Work for/with a game studio to develop the latest hit games
+ 
+Currently I am collaborating with a team of developers at my university to produce our first group project Unity game. It's relatively small scale and a first for all of us. I'm always open to collaboration and any useful hints and tips that people may want to offer. While I haven't had the typical kind of education pathway that you would expect for a game developer, I'm really excited to learn and apply my thinking and learning skills to game development.
 
 
-## My Progress
-
-I began Unity development in September 2022 with my first game Pong2D, which you can find in my repo's. I moved onto 3D games and collaborating with a team of friends at Uni to immerse myself in a more dynamic development environment and to adapt to what a job in game development would really be like.
-
-
-## My Education
- - Bachelors Degree in Electrical and Electronic Engineering
+## My Background
+ - Undertaking a Bachelors Degree in Electrical and Electronic Engineering
+ - Digital Electronics and Microprocessor Systems
  - App Development in C++
  - Programming in C
- - Digital Electronics and Microprocessor Systems
  
  ## My Socials
   - Twitter - <a href="https://twitter.com/DevCalledWill">@DevCalledWill</a>
