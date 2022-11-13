@@ -4,22 +4,17 @@
 <img align="left" width="47%" height="188px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swillmith16&layout=compact&bg_color=30,8F4E94,E76345&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF" />
 
 
-## My Ambition
+## My Ambition 🚀
 
- - Aspiring Unity Game Developer
- - Collaborate with a team to create fun, well-produced games
- - Work for/with a game studio to develop the latest hit games
+ - Release some high-quality indie games
+ - Eventually work for/with a pro game studio
  
-Currently I am collaborating with a team of developers at my university to produce our first group project Unity game. It's relatively small scale and a first for all of us. I'm always open to collaboration and any useful hints and tips that people may want to offer. While I haven't had the typical kind of education pathway that you would expect for a game developer, I'm really excited to learn and apply my thinking and learning skills to game development.
+Currently doing a collab with dev's at my uni for our first group project in Unity. I do love a good game jam.
 
-
-## My Background
- - Undertaking a Bachelors Degree in Electrical and Electronic Engineering
- - Digital Electronics and Microprocessor Systems
- - App Development in C++
- - Programming in C
+Always open to group work! (I'm not very good at model building)
  
- ## My Socials
+ ## My Socials 📱
+ 
   - Twitter - <a href="https://twitter.com/DevCalledWill">@DevCalledWill</a>
   - GitHub - well, you're already here...
 
