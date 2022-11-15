@@ -7,7 +7,7 @@
 ## My Ambition 🚀
 
  - Release some high-quality indie games
- - Eventually work for/with a pro game studio
+ - Eventually work for/with a AAA game studio
  
 Currently doing a collab with dev's at my uni for our first group project in Unity. I do love a good game jam.
 
